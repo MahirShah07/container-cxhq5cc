@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "MahirShah07",
+  "repo": "container-cxhq5cc",
+  "name": "MahirShah07",
+  "email": "mahir.shah.sd@gmail.com",
+}
